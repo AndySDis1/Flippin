@@ -9,6 +9,7 @@
     "test": "turbo test"
   },
   "devDependencies": {
+    "supabase": "^2.58.5",
     "turbo": "^2.3.3",
     "typescript": "^5.6.3"
   }
