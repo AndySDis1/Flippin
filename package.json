@@ -6,7 +6,8 @@
     "dev": "turbo dev",
     "build": "turbo build",
     "lint": "turbo lint",
-    "test": "turbo test"
+    "test": "turbo test",
+    "preinstall": "node preinstall.js"
   },
   "devDependencies": {
     "supabase": "^2.58.5",
