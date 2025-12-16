@@ -1,5 +1,6 @@
-﻿{
-  "installCommand": "npm install",
-  "buildCommand": "npm run build",
-  "framework": "nextjs"
+{
+  "installCommand": "pnpm install --frozen-lockfile=false",
+  "buildCommand": "pnpm run build",
+  "framework": "nextjs",
+  "rootDirectory": "apps/web"
 }
