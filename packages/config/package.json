@@ -1,0 +1,12 @@
+{
+  "name": "@flippin/config",
+  "private": true,
+  "version": "0.1.0",
+  "main": "./tsconfig/base.json",
+  "type": "module",
+  "dependencies": {
+    "@tailwindcss/forms": "^0.5.10",
+    "@tailwindcss/typography": "^0.5.15",
+    "tailwindcss": "^3.4.14"
+  }
+}
