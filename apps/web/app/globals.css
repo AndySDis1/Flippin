@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply bg-slate-950 text-slate-50 min-h-screen;
+}
+
+.card {
+  @apply bg-slate-900 border border-slate-800 rounded-xl shadow-lg;
+}
